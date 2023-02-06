@@ -8,3 +8,5 @@ Software Engineers influence people’s life through features and the embedded e
 
 
 The paper mentioned a couple methods to enhance ethical deliberation in agile: promoting flat hierarchies and focus on autonomy of engineer, team collaboration, provision of techno-ethical realism, introducing clear endpoints for ethical deliberations…etc are all methods to facilitate a better agile development process. 
+
+
